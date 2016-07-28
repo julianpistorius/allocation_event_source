@@ -1,0 +1,11 @@
+site_name: allocation_event_source
+site_description: Handwavy wizardry
+repo_url: https://github.com/julianpistorius/allocation_event_source
+site_dir: site
+copyright: Copyright &copy; 2015, <a href="https://github.com/julianpistorius">julianpistorius</a>.
+
+pages:
+  - Home: 'index.md'
+  - API:
+    - Authentication: 'api/authentication.md'
+    - Users: 'api/users.md'

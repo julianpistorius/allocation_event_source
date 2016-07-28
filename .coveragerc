@@ -1,0 +1,10 @@
+[run]
+branch = True
+omit = *migrations*,
+       *urls*,
+       *test*,
+       *admin*,
+       ./allocation_event_source/config/*,
+       ./allocation_event_source/manage.py,
+       ./allocation_event_source/wsgi.py,
+       *__init__*
