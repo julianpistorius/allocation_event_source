@@ -1,7 +1,9 @@
 #allocation_event_source
 [![Build Status](https://travis-ci.org/julianpistorius/allocation_event_source.svg?branch=master)](https://travis-ci.org/julianpistorius/allocation_event_source)
 
-Handwavy wizardry. Check out the project's [documentation](http://julianpistorius.github.io/allocation_event_source/).
+Handwavy wizardry. This is going to be interesting. :)
+
+Check out the project's [documentation](http://julianpistorius.github.io/allocation_event_source/).
 
 # Prerequisites
 - [virtualenv](https://virtualenv.pypa.io/en/latest/)
